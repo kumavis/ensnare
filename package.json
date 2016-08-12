@@ -1,7 +1,7 @@
 {
   "name": "ensnare",
   "version": "1.0.0",
-  "description": "",
+  "description": "creates a proxy object that calls cb everytime the obj's properties/fns are accessed",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "tape": "^4.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumavis/ensnare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumavis/ensnare/issues"
+  },
+  "homepage": "https://github.com/kumavis/ensnare#readme"
 }
