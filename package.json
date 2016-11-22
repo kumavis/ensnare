@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tape": "^4.6.0"
+    "tape": "^4.6.3"
   },
   "devDependencies": {},
   "repository": {
