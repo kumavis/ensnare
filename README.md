@@ -1,5 +1,7 @@
 ### ensnare
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/ensnare.svg)](https://greenkeeper.io/)
+
 creates a proxy object that calls cb everytime the obj's properties/fns are accessed
 
 ```js
